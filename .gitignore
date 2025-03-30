@@ -1,0 +1,1 @@
+node_modules/\n.DS_Store\n/build\n/dist\n.env\n.env.local\n.env.development.local\n.env.test.local\nnpm-debug.log\nyarn-error.log
